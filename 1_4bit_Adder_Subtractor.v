@@ -30,3 +30,31 @@ full_adder fa2(s[2], cout3, a[2], xorb2, cout2);
 full_adder fa3(s[3], cout, a[3], xorb3, cout3);
 endmodule; 
 
+module adder_subtractor_test;
+reg [3:0]a;
+reg [3:0]b;
+reg m;
+wire [3:0]s;
+wire cout;
+
+adder_subtractor abc(s, cout, a, b, m);
+initial begin
+	#0	m = 0;	a = 4'b0000; 	b = 4'b0000;
+	#50	m = 0;	a = 4'b0001; 	b = 4'b0001;
+	#50	m = 0;	a = 4'b0010; 	b = 4'b0010;
+	#50	m = 0;	a = 4'b0111; 	b = 4'b0001;
+	#50	m = 0;	a = 4'b1101; 	b = 4'b0010;
+	#50	m = 0;	a = 4'b1111; 	b = 4'b0001;
+	#50	m = 0;	a = 4'b1111; 	b = 4'b0101;
+	#50	m = 0;	a = 4'b0010; 	b = 4'b0110;
+
+	#50	m = 1;	a = 4'b0000; 	b = 4'b0000;
+	#50	m = 1;	a = 4'b0001; 	b = 4'b0001;
+	#50	m = 1;	a = 4'b0010; 	b = 4'b0010;
+	#50	m = 1;	a = 4'b0011; 	b = 4'b0100;
+	#50	m = 1;	a = 4'b0000; 	b = 4'b1111;
+	#50	m = 1;	a = 4'b1111; 	b = 4'b0000;
+	#50	m = 1;	a = 4'b1011; 	b = 4'b1010;
+	#50	m = 1;	a = 4'b1111; 	b = 4'b1111;
+end
+endmodule;

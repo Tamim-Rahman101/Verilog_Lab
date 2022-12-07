@@ -3,22 +3,26 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 -- Compiling module full_adder
 ** Warning: C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v(11): (vlog-2283) Extra semicolon in $unit (global) scope.
 ** Warning: C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v(31): (vlog-2283) Extra semicolon in $unit (global) scope.
-** Warning: C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v(33): (vlog-2284) Empty $unit scope found.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v(60): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v(61): (vlog-2284) Empty $unit scope found.
 -- Compiling package _1_4bit_Adder_Subtractor_v_unit
 -- Compiling module adder_subtractor
+-- Compiling module adder_subtractor_test
 
 Top level modules:
-	adder_subtractor
+	adder_subtractor_test
 
 } {} {}} C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v {2 {vlog -work work -stats=none C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module bcd_to_ex3
 ** Warning: C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v(15): (vlog-2283) Extra semicolon in $unit (global) scope.
-** Warning: C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v(15): (vlog-2284) Empty $unit scope found.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v(34): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v(35): (vlog-2284) Empty $unit scope found.
 -- Compiling package _2_BCD_to_EX3_v_unit
+-- Compiling module bcd_to_ex3_test
 
 Top level modules:
-	bcd_to_ex3
+	bcd_to_ex3_test
 
 } {} {}} C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v {2 {vlog -work work -stats=none C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -35,23 +39,13 @@ Top level modules:
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module ex3_to_bcd
 ** Warning: C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v(31): (vlog-2283) Extra semicolon in $unit (global) scope.
-** Warning: C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v(34): (vlog-2284) Empty $unit scope found.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v(50): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v(51): (vlog-2284) Empty $unit scope found.
 -- Compiling package _3_EX3_t0_BCD_v_unit
+-- Compiling module ex3_to_bcd_test
 
 Top level modules:
-	ex3_to_bcd
-
-} {} {}} C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v {2 {vlog -work work -stats=none C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module jk_ff
-** Warning: C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v(16): (vlog-2283) Extra semicolon in $unit (global) scope.
-** Warning: C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v(29): (vlog-2283) Extra semicolon in $unit (global) scope.
-** Warning: C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v(31): (vlog-2284) Empty $unit scope found.
--- Compiling package _4_4bit_Asy_Mod10_Counter_v_unit
--- Compiling module asy_mod10_counter
-
-Top level modules:
-	asy_mod10_counter
+	ex3_to_bcd_test
 
 } {} {}} C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v {2 {vlog -work work -stats=none C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -64,5 +58,17 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 
 Top level modules:
 	syn_up_down_counter
+
+} {} {}} C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v {2 {vlog -work work -stats=none C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module jk_ff
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v(16): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v(29): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v(31): (vlog-2284) Empty $unit scope found.
+-- Compiling package _4_4bit_Asy_Mod10_Counter_v_unit
+-- Compiling module asy_mod10_counter
+
+Top level modules:
+	asy_mod10_counter
 
 } {} {}}

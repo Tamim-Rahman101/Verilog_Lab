@@ -30,4 +30,21 @@ or(B[3], nd[3], nd[4]);
 
 endmodule;
 
+module ex3_to_bcd_test;
+reg [3:0]e;
+wire [3:0]b;
 
+ex3_to_bcd abc(b, e);
+initial begin
+	#0	e = 4'b0011;
+	#50	e = 4'b0100;
+	#50	e = 4'b0101;
+	#50	e = 4'b0110;
+	#50	e = 4'b0111;
+	#50	e = 4'b1000;
+	#50	e = 4'b1001;
+	#0	e = 4'b1010;
+	#50	e = 4'b1011;
+	#50	e = 4'b1100;
+end
+endmodule;

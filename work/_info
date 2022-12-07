@@ -11,24 +11,24 @@ cModel Technology
 dC:/Users/tamim/Desktop/Verilog
 X_1_4bit_Adder_Subtractor_v_unit
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1670397580
-V593bFLfTQBFW@T:RBcNeK2
+Z1 !s110 1670399872
+Vo;h5PAma>2MUUkWAUchO;3
 r1
 !s85 0
 !i10b 1
-!s100 ZCmdGNH[hmch0kGEPVH@F1
-I593bFLfTQBFW@T:RBcNeK2
+!s100 jY=YiPC8^Kh:OOM0WW^=01
+Io;h5PAma>2MUUkWAUchO;3
 !i103 1
 S1
 Z2 dC:/Users/tamim/Desktop/Verilog_Lab
-Z3 w1670396087
+Z3 w1670399869
 Z4 8C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v
 Z5 FC:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v
-!i122 90
+!i122 108
 L0 11 0
 Z6 OV;L;2020.1;71
 31
-Z7 !s108 1670397580.000000
+Z7 !s108 1670399872.000000
 Z8 !s107 C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/1_4bit_Adder_Subtractor.v|
 !i113 1
@@ -37,59 +37,59 @@ Z11 tCvgOpt 0
 n@_1_4bit_@adder_@subtractor_v_unit
 X_2_BCD_to_EX3_v_unit
 R0
-R1
-VGa]0[4J1b4QSA0JJE5HU73
+Z12 !s110 1670399873
+VdNUbPgjIm7HX;>KMfI1>o2
 r1
 !s85 0
 !i10b 1
-!s100 gk1h^Yo_`N7YSRVPlQ2WY1
-IGa]0[4J1b4QSA0JJE5HU73
+!s100 _mSjb]J]`26579WYSBGZo0
+IdNUbPgjIm7HX;>KMfI1>o2
 !i103 1
 S1
 R2
-R3
-Z12 8C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v
-Z13 FC:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v
-!i122 91
-Z14 L0 15 0
+Z13 w1670399348
+Z14 8C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v
+Z15 FC:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v
+!i122 109
+Z16 L0 15 0
 R6
 31
-R7
-Z15 !s107 C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v|
-Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v|
+Z17 !s108 1670399873.000000
+Z18 !s107 C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/2_BCD_to_EX3.v|
 !i113 1
 R10
 R11
 n@_2_@b@c@d_to_@e@x3_v_unit
 X_3_EX3_t0_BCD_v_unit
 R0
-Z17 !s110 1670397581
-Vz;b00[z[[?f04@5S[BXJ;1
+R12
+Vz<3;S1@40T6lNoaD_n:e61
 r1
 !s85 0
 !i10b 1
-!s100 U[CL3;@K8:IWGV>TK5`Vm0
-Iz;b00[z[[?f04@5S[BXJ;1
+!s100 ik<DBU0X9XYJcziWeRU=L3
+Iz<3;S1@40T6lNoaD_n:e61
 !i103 1
 S1
 R2
-R3
-Z18 8C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v
-Z19 FC:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v
-!i122 92
-Z20 L0 31 0
+Z20 w1670399427
+Z21 8C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v
+Z22 FC:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v
+!i122 110
+Z23 L0 31 0
 R6
 31
-Z21 !s108 1670397581.000000
-Z22 !s107 C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v|
-Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v|
+R17
+Z24 !s107 C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v|
+Z25 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/3_EX3_t0_BCD.v|
 !i113 1
 R10
 R11
 n@_3_@e@x3_t0_@b@c@d_v_unit
 X_4_4bit_Asy_Mod10_Counter_v_unit
 R0
-R17
+R12
 VAFd2?^@7XI8k_YhagYkYO1
 r1
 !s85 0
@@ -99,23 +99,23 @@ IAFd2?^@7XI8k_YhagYkYO1
 !i103 1
 S1
 R2
-R3
-Z24 8C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v
-Z25 FC:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v
-!i122 93
-Z26 L0 16 0
+Z26 w1670396087
+Z27 8C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v
+Z28 FC:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v
+!i122 111
+Z29 L0 16 0
 R6
 31
-R21
-Z27 !s107 C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v|
-Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v|
+R17
+Z30 !s107 C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/4_4bit_Asy_Mod10_Counter.v|
 !i113 1
 R10
 R11
 n@_4_4bit_@asy_@mod10_@counter_v_unit
 X_5_3bit_Syn_Up_Down_Counter_v_unit
 R0
-R17
+R12
 Vl87ES6VNaB;MKEXa;0fj=2
 r1
 !s85 0
@@ -125,23 +125,23 @@ Il87ES6VNaB;MKEXa;0fj=2
 !i103 1
 S1
 R2
-R3
-Z29 8C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v
-Z30 FC:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v
-!i122 94
 R26
+Z32 8C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v
+Z33 FC:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v
+!i122 112
+R29
 R6
 31
-R21
-Z31 !s107 C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v|
-Z32 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v|
+R17
+Z34 !s107 C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v|
+Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/5_3bit_Syn_Up_Down_Counter.v|
 !i113 1
 R10
 R11
 n@_5_3bit_@syn_@up_@down_@counter_v_unit
 X_6_4bit_Syn_Counter_of_given_Sequence_v_unit
 R0
-R17
+R12
 VD9j<ONGa6:28;j:a12]_93
 r1
 !s85 0
@@ -151,23 +151,23 @@ ID9j<ONGa6:28;j:a12]_93
 !i103 1
 S1
 R2
-R3
-Z33 8C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v
-Z34 FC:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v
-!i122 95
 R26
+Z36 8C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v
+Z37 FC:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v
+!i122 113
+R29
 R6
 31
-R21
+R17
 !s107 C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v|
-Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v|
 !i113 1
 R10
 R11
 n@_6_4bit_@syn_@counter_of_given_@sequence_v_unit
 vadder_subtractor
 R1
-Z36 VDg1SIo80bB@j0V0VzS_@n1
+Z39 VDg1SIo80bB@j0V0VzS_@n1
 r1
 !s85 0
 !i10b 1
@@ -177,7 +177,7 @@ R2
 R3
 R4
 R5
-!i122 90
+!i122 108
 L0 13 19
 R6
 31
@@ -187,48 +187,92 @@ R9
 !i113 1
 R10
 R11
+vadder_subtractor_test
+R1
+R39
+r1
+!s85 0
+!i10b 1
+!s100 TdW_W0Tk7Bfa]a0Q9WI7A2
+I>1e_63=X4S`KK=Z:UJ<jK1
+R2
+R3
+R4
+R5
+!i122 108
+L0 33 28
+R6
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
 vasy_mod10_counter
-R17
-R36
+R12
+R39
 r1
 !s85 0
 !i10b 1
 !s100 KL315>^Sgg5;_7@VgdYQ43
 I4L>RnOhXA3Zi<L0e>aLYj0
 R2
-R3
-R24
-R25
-!i122 93
+R26
+R27
+R28
+!i122 111
 L0 18 12
 R6
 31
-R21
-R27
-R28
+R17
+R30
+R31
 !i113 1
 R10
 R11
 vbcd_to_ex3
-R1
+R12
 !i10b 1
 !s100 ?6AGQ_YWY=<9H5SG?3iLf1
-Z37 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z40 !s11b Dg1SIo80bB@j0V0VzS_@n1
 I<7>Lm7[]k97[`fiY67BzX0
-R36
+R39
 R2
-R3
-R12
 R13
-!i122 91
+R14
+R15
+!i122 109
 L0 1 15
 R6
 r1
 !s85 0
 31
-R7
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vbcd_to_ex3_test
+R12
+R39
+r1
+!s85 0
+!i10b 1
+!s100 >:I4HNJ9Rb:_QhaFHzFNR2
+IZA]FMa_F42[oLV[N9Ck^E3
+R2
+R13
+R14
 R15
-R16
+!i122 109
+L0 17 18
+R6
+31
+R17
+R18
+R19
 !i113 1
 R10
 R11
@@ -243,12 +287,12 @@ r1
 IW3H;T@Fn]eagU_>kZFD:B2
 !i103 1
 S1
-Z38 dC:/Users/tamim/Desktop/New Verilog
+Z41 dC:/Users/tamim/Desktop/New Verilog
 w1669651913
 8C:/Users/tamim/Desktop/New Verilog/BCD_to_EX3.v
 FC:/Users/tamim/Desktop/New Verilog/BCD_to_EX3.v
 !i122 11
-R14
+R16
 R6
 31
 !s108 1669653422.000000
@@ -259,25 +303,47 @@ R10
 R11
 n@b@c@d_to_@e@x3_v_unit
 vex3_to_bcd
-R17
+R12
 !i10b 1
 !s100 mnf[XekNonj9;`f6j81mR2
-R37
+R40
 IPB1SmWYE5:6=Z^kzSWO4<0
-R36
+R39
 R2
-R3
-R18
-R19
-!i122 92
+R20
+R21
+R22
+!i122 110
 L0 1 31
 R6
 r1
 !s85 0
 31
+R17
+R24
+R25
+!i113 1
+R10
+R11
+vex3_to_bcd_test
+R12
+R39
+r1
+!s85 0
+!i10b 1
+!s100 bTAN7kEJJBhlPikVc;P[C0
+I^50V7TPf>aRiKB87iLU2j1
+R2
+R20
 R21
 R22
-R23
+!i122 110
+L0 33 18
+R6
+31
+R17
+R24
+R25
 !i113 1
 R10
 R11
@@ -292,12 +358,12 @@ r1
 ISNVZRa?cQXSQHOC0Lhe^C3
 !i103 1
 S1
-R38
+R41
 w1669653210
 8C:/Users/tamim/Desktop/New Verilog/EX3_to_BCD.v
 FC:/Users/tamim/Desktop/New Verilog/EX3_to_BCD.v
 !i122 9
-R20
+R23
 R6
 31
 !s108 1669653217.000000
@@ -311,14 +377,14 @@ vfull_adder
 R1
 !i10b 1
 !s100 8Tcm08@2YMJh9J>MSmi@h0
-R37
+R40
 I1YKEk]^H9WBG3bM5zKkAn2
-R36
+R39
 R2
 R3
 R4
 R5
-!i122 90
+!i122 108
 L0 1 11
 R6
 r1
@@ -331,69 +397,69 @@ R9
 R10
 R11
 vjk_ff
-R17
+R12
 !i10b 1
 !s100 [;`oEkV7fDzJShij9^O]Z3
-R37
+R40
 IFl4W`oNhmQh8Az2RMRV^n1
-R36
+R39
 R2
-R3
-R33
-R34
-!i122 95
+R26
+R36
+R37
+!i122 113
 L0 1 16
 R6
 r1
 !s85 0
 31
-R21
-Z39 !s107 C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v|
-R35
+R17
+Z42 !s107 C:/Users/tamim/Desktop/Verilog_Lab/6_4bit_Syn_Counter_of_given_Sequence.v|
+R38
 !i113 1
 R10
 R11
 vsyn_4bit_counter
-R17
-R36
+R12
+R39
 r1
 !s85 0
 !i10b 1
 !s100 z47?aT55Wb7<JZ;n:21Ea2
 IbJCkGNbQ=EC>eOnT6k:eD1
 R2
-R3
-R33
-R34
-!i122 95
+R26
+R36
+R37
+!i122 113
 L0 18 29
 R6
 31
-R21
-R39
-R35
+R17
+R42
+R38
 !i113 1
 R10
 R11
 vsyn_up_down_counter
-R17
-R36
+R12
+R39
 r1
 !s85 0
 !i10b 1
 !s100 f<LHKoGUG9Zn2DhBgA3oz3
 IkX;I>D5nI]NzAFlIIE:dP1
 R2
-R3
-R29
-R30
-!i122 94
+R26
+R32
+R33
+!i122 112
 L0 18 22
 R6
 31
-R21
-R31
-R32
+R17
+R34
+R35
 !i113 1
 R10
 R11

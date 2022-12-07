@@ -1,0 +1,81 @@
+# Compile of 1_4bit_Adder_Subtractor.v was successful with warnings.
+# Compile of 2_BCD_to_EX3.v was successful with warnings.
+# Compile of 3_EX3_t0_BCD.v was successful with warnings.
+# Compile of 4_4bit_Asy_Mod10_Counter.v was successful with warnings.
+# Compile of 5_3bit_Syn_Up_Down_Counter.v was successful with warnings.
+# Compile of 6_4bit_Syn_Counter_of_given_Sequence.v was successful with warnings.
+# 6 compiles, 0 failed with no errors.
+vsim work.bcd_to_ex3_test
+# vsim work.bcd_to_ex3_test 
+# Start time: 13:49:36 on Dec 07,2022
+# Loading work.bcd_to_ex3_test
+# Loading work.bcd_to_ex3
+add wave -position insertpoint  \
+sim:/bcd_to_ex3_test/b \
+sim:/bcd_to_ex3_test/e
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 13:49:57 on Dec 07,2022, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 2
+# Compile of 1_4bit_Adder_Subtractor.v was successful with warnings.
+# Compile of 2_BCD_to_EX3.v was successful with warnings.
+# Compile of 3_EX3_t0_BCD.v was successful with warnings.
+# Compile of 4_4bit_Asy_Mod10_Counter.v was successful with warnings.
+# Compile of 5_3bit_Syn_Up_Down_Counter.v was successful with warnings.
+# Compile of 6_4bit_Syn_Counter_of_given_Sequence.v was successful with warnings.
+# 6 compiles, 0 failed with no errors.
+vsim work.ex3_to_bcd_test
+# vsim work.ex3_to_bcd_test 
+# Start time: 13:50:37 on Dec 07,2022
+# Loading work.ex3_to_bcd_test
+# Loading work.ex3_to_bcd
+add wave -position insertpoint  \
+sim:/ex3_to_bcd_test/b \
+sim:/ex3_to_bcd_test/e
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 13:50:54 on Dec 07,2022, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 2
+# Compile of 1_4bit_Adder_Subtractor.v was successful with warnings.
+# Compile of 2_BCD_to_EX3.v was successful with warnings.
+# Compile of 3_EX3_t0_BCD.v was successful with warnings.
+# Compile of 4_4bit_Asy_Mod10_Counter.v was successful with warnings.
+# Compile of 5_3bit_Syn_Up_Down_Counter.v was successful with warnings.
+# Compile of 6_4bit_Syn_Counter_of_given_Sequence.v was successful with warnings.
+# 6 compiles, 0 failed with no errors.
+vsim work.adder_subtractor_test
+# vsim work.adder_subtractor_test 
+# Start time: 13:57:58 on Dec 07,2022
+# Loading work.adder_subtractor_test
+# Loading work.adder_subtractor
+# Loading work.full_adder
+add wave -position insertpoint  \
+sim:/adder_subtractor_test/a \
+sim:/adder_subtractor_test/b \
+sim:/adder_subtractor_test/cout \
+sim:/adder_subtractor_test/m \
+sim:/adder_subtractor_test/s
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 14:00:36 on Dec 07,2022, Elapsed time: 0:02:38
+# Errors: 0, Warnings: 2
